@@ -19,5 +19,13 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "pug": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poachingfelony/nodemvc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/poachingfelony/nodemvc/issues"
+  },
+  "homepage": "https://github.com/poachingfelony/nodemvc#readme"
 }
